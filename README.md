@@ -1,6 +1,6 @@
 # kickstarter-predictive-analytics
 
-Réalisé dans le cadre de la formation Data Analyst, au sein de l’organisme DataScientest (https://datascientest.com/).
+Projet réalisé dans le cadre de la formation Data Analyst, au sein de l’organisme DataScientest (https://datascientest.com/).
 
 ## Description du Projet
 
