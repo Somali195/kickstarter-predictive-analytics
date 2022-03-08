@@ -4,7 +4,7 @@ Projet réalisé dans le cadre de la formation Data Analyst, au sein de l’orga
 
 ## Description du Projet
 
-Kickstarter est une plate-forme américaine de financement participatif créée en 2009, à destination des particuliers. Plus de 550 000 projets ont déjà été lancés sur cette plate-forme, dont environ 40% ont été intégralement financés, grâce à l’aide de contributeurs.
+Kickstarter est une plate-forme américaine de financement participatif créée en 2009. Plus de 550 000 projets ont déjà été lancés sur cette plate-forme, dont environ 40% ont été intégralement financés, grâce à l’aide de contributeurs.
 
 L’objectif du projet est **d'établir des modèles prédictifs permettant de déterminer quel sera le statut final (échec ou réussite) de campagnes de financement participatif**, lancées par des utilisateurs sur cette plate-forme.
 
