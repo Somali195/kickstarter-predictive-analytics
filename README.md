@@ -40,4 +40,4 @@ goal_usd : 		Objectif à atteindre de la campagne (en USD)
 city : 			Ville de lancement de la campagne  
 duration :		Durée de la campagne (en nombre de jours)  
 
-Des données complémentaires ont été ajoutées depuis : https://webrobots.io/kickstarter-datasets/ pour récupérer la variable sur la présence d'une vidéo dans la campagne
+Des données complémentaires ont été importées depuis le site https://webrobots.io/kickstarter-datasets/ afin de récupérer la variable "video" (qui indique si les campagnes  de financement disposent d'une vidéo de présentation sur le site Kickstarter).
