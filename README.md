@@ -6,11 +6,11 @@ Réalisé dans le cadre de la formation Data Analyst, au sein de l’organisme D
 
 Kickstarter est une plate-forme américaine de financement participatif créée en 2009, à destination des particuliers. Plus de 550 000 projets ont déjà été lancés sur cette plate-forme, dont environ 40% ont été intégralement financés, grâce à l’aide de contributeurs.
 
-L’objectif du projet est d’**établir des modèles prédictifs permettant de déterminer quel sera le statut final (échec ou réussite) de campagnes de financement participatif**, lancées par des utilisateurs sur cette plate-forme.
+L’objectif du projet est **d'établir des modèles prédictifs permettant de déterminer quel sera le statut final (échec ou réussite) de campagnes de financement participatif**, lancées par des utilisateurs sur cette plate-forme.
 
 Cette étude permet en outre d’identifier **les conditions de réussite d’une campagne de financement**, ce qui s’avère utile à la fois pour les créateurs de projets, et aussi pour la plate-forme Kickstarter :
 - les créateurs de projets peuvent maximiser leurs chances de réussite en jouant sur certains paramètres précis pour leur(s) campagne(s),
-- pour Kickstarter, il est utile d’identifier les projets ayant de fortes chances de réussite car l’entreprise perçoit une commission sur les montants collectés en cas de campagnes intégralement financées. 
+- pour Kickstarter, il peut être utile d’identifier les projets ayant de fortes chances de réussite car l’entreprise perçoit une commission sur les montants collectés en cas de campagnes intégralement financées. 
 En identifiant en amont les projets ayant de grandes chances de réussite, la plate-forme peut par exemple améliorer la visibilité de ces derniers et booster leur succès (et donc augmenter sa propre rémunération).
 
 ## Données
