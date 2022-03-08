@@ -21,21 +21,21 @@ Le dataset recense des données sur des campagnes de financement participatif la
 
 Les variables du dataset sont les suivantes :
 
-id : 			Identifiant de la campagne de financement
-name :			Nom de la campagne
-currency : 		Devise des sommes collectées 
-launched_at : 		Date de lancement de la campagne
-backers_count : 	Nombre de contributeurs
-blurb : 			Slogan de la campagne
-country :		Pays de lancement de la campagne
-deadline : 		Date de clôture de la campagne
-slug : 			Texte qui apparait dans le navigateur lorsque l'on affiche la page web de la campagne
-status : 			Statut final de la campagne
-usd_pledged : 		Montant collecté (en USD)
-sub_category : 		Catégorie principale de la campagne
-main_category : 	Sous-catégorie de la campagne
-creator_id : 		Identifiant du créateur de la campagne
-blurb_length : 		Longueur du slogan (en nombre de lettres)
-goal_usd : 		Objectif à atteindre de la campagne (en USD)
-city : 			Ville de lancement de la campagne
-duration :		Durée de la campagne (en nombre de jours)
+id : 			Identifiant de la campagne de financement  
+name :			Nom de la campagne  
+currency : 		Devise des sommes collectées   
+launched_at : 		Date de lancement de la campagne  
+backers_count : 	Nombre de contributeurs  
+blurb : 			Slogan de la campagne  
+country :		Pays de lancement de la campagne  
+deadline : 		Date de clôture de la campagne  
+slug : 			Texte qui apparait dans le navigateur lorsque l'on affiche la page web de la campagne  
+status : 			Statut final de la campagne  
+usd_pledged : 		Montant collecté (en USD)  
+sub_category : 		Catégorie principale de la campagne  
+main_category : 	Sous-catégorie de la campagne  
+creator_id : 		Identifiant du créateur de la campagne  
+blurb_length : 		Longueur du slogan (en nombre de lettres)  
+goal_usd : 		Objectif à atteindre de la campagne (en USD)  
+city : 			Ville de lancement de la campagne  
+duration :		Durée de la campagne (en nombre de jours)  
