@@ -15,7 +15,7 @@ En identifiant en amont les projets ayant de grandes chances de réussite, la pl
 
 ## Données
 
-Les données utilisées proviennent de **Kaggle** (lien).
+Les données utilisées proviennent de **Kaggle** (https://www.kaggle.com/yashkantharia/kickstarter-campaigns-dataset-20).
 
 Le dataset recense des données sur des campagnes de financement participatif lancées entre 2009 et 2020. 
 
@@ -39,3 +39,5 @@ blurb_length : 		Longueur du slogan (en nombre de lettres)
 goal_usd : 		Objectif à atteindre de la campagne (en USD)  
 city : 			Ville de lancement de la campagne  
 duration :		Durée de la campagne (en nombre de jours)  
+
+Des données complémentaires ont été ajoutées depuis : https://webrobots.io/kickstarter-datasets/ pour récupérer la variable sur la présence d'une vidéo dans la campagne
